@@ -1,1 +1,9 @@
 ### Testing
+
+how to push code to github 
+
+git init 
+git remote add origin link 
+git add .
+git commit -m  "message"
+git push origin master
